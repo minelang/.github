@@ -32,10 +32,6 @@
 
     > Official Docs: [`/docs`](https://minelang.org/docs/)
 
-    > Maintenance Guide: [`/docs/maintenance-guide`](https://minelang.org/docs/maintenance-guide/) _(read it before touch Mine)_
-
-    > Language Rules: [`/docs/language-rules`](https://minelang.org/docs/language-rules/) _(read it before use Mine)_
-
 <!-- ╚═════════════════════════════════════════════════════════════════╝ -->
 
 
