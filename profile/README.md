@@ -9,11 +9,9 @@
 
 <div align="center">
     <p align="center" style="font-style:italic; color:gray;">
-        <b>A general-purpose programming language with clarity, explicitness,<br>
-        and great DX without sacrificing performance or control.</b>
-        <br>
+        General-purpose, explicit by design, delightful by experience.
     </p>
-    <img src="https://img.shields.io/badge/v-0.0.1--MVP-black"/>
+    <img src="https://img.shields.io/badge/v-0.0.0-black"/>
     <a href="https://minelang.org"><img src="https://img.shields.io/badge/website-blue"/></a>
     <a href="https://minelang.org/docs"><img src="https://img.shields.io/badge/docs-green"/></a>
     <br>
