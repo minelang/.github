@@ -9,7 +9,7 @@
 
 <div align="center">
     <p align="center" style="font-style:italic; color:gray;">
-        <b>A programming language.</b>
+        <b>A general-purpose programming language and toolchain.</b>
         <br>
     </p>
     <img src="https://img.shields.io/badge/v-0.0.0-black"/>
